@@ -15,6 +15,11 @@ Dataset| dev-clean | test-clean | dev-other
 --- | --- | --- | --- |
 BLEU score | 0.849 | 0.851 | 0.683
 
+### MT model: transformer.wmt19.en-ru (fairseq)
+
+Dataset| dev-clean |
+--- | --- |
+BLEU score | 0.824 | 
 ____________________________________________________________
 ### Adding Noise to dev-other dataset
 
